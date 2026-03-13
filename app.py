@@ -1,7 +1,7 @@
 import streamlit as st
 import requests
 
-API_BASE = "https://your-render-app.onrender.com"
+API_BASE = "https://myapi1-pz44.onrender.com"
 # For local testing:
 # API_BASE = "http://127.0.0.1:8000"
 
